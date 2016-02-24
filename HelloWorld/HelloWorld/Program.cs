@@ -9,8 +9,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World Git");
-            Console.ReadLine();
+            Console.WriteLine("Enter Your Name: ");
+            string name =Console.ReadLine();
         }
     }
 }
